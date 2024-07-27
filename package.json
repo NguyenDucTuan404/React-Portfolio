@@ -1,7 +1,7 @@
 {
-  "homepage": "http://NguyenDucTuan404.github.io/React-Portfolio/",
-  "name": "final-portfolio",
+  "name": "React-Portfolio",
   "version": "0.1.0",
+  "homepage": "http://NguyenDucTuan404.github.io/React-Portfolio",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
@@ -9,7 +9,6 @@
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.8.3",
-    "gh-pages": "^6.1.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-intersection-observer": "^8.31.0",
@@ -44,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
