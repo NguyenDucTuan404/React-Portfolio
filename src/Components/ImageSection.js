@@ -27,7 +27,7 @@ function ImageSection() {
                         <p>: Tuan Nguyen Duc</p>
                         <p>: 22</p>
                         <p>: Viet Nam </p>
-                        <p>: VietNamese, English </p>
+                        <p>: VietNamese, A little English </p>
                         <p>: Thai Nguyen</p>
                         <p>: Student</p>
                     </div>
