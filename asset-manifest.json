@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/React-Portfolio/static/js/main.86b523d8.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.86b523d8.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.2da57e59.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.2da57e59.js.map",
+    "static/js/2.ab18e574.chunk.js": "/React-Portfolio/static/js/2.ab18e574.chunk.js",
+    "static/js/2.ab18e574.chunk.js.map": "/React-Portfolio/static/js/2.ab18e574.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/js/2.ab18e574.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.ab18e574.chunk.js.LICENSE.txt",
+    "static/media/Admission_form.5a809c73.png": "/React-Portfolio/static/media/Admission_form.5a809c73.png",
+    "static/media/BlogFood.f50c91c4.png": "/React-Portfolio/static/media/BlogFood.f50c91c4.png",
+    "static/media/BookingCare.1fd38a17.png": "/React-Portfolio/static/media/BookingCare.1fd38a17.png",
+    "static/media/Calculator_JS.229dc913.png": "/React-Portfolio/static/media/Calculator_JS.229dc913.png",
+    "static/media/FindingJob.049e5a98.png": "/React-Portfolio/static/media/FindingJob.049e5a98.png",
+    "static/media/MyBlog.ccdaa1be.png": "/React-Portfolio/static/media/MyBlog.ccdaa1be.png",
+    "static/media/MyBlog2.04127a48.png": "/React-Portfolio/static/media/MyBlog2.04127a48.png",
+    "static/media/MyBlog3.9f11cf8d.png": "/React-Portfolio/static/media/MyBlog3.9f11cf8d.png",
+    "static/media/Shopee_HTML.6689467d.png": "/React-Portfolio/static/media/Shopee_HTML.6689467d.png",
+    "static/media/avatar.5d5199e2.jpg": "/React-Portfolio/static/media/avatar.5d5199e2.jpg",
+    "static/media/landing_page.03df77b1.png": "/React-Portfolio/static/media/landing_page.03df77b1.png",
+    "static/media/recland.774a7079.png": "/React-Portfolio/static/media/recland.774a7079.png",
+    "static/media/resume.5d5199e2.jpg": "/React-Portfolio/static/media/resume.5d5199e2.jpg",
+    "static/media/the_band.ca1c4766.png": "/React-Portfolio/static/media/the_band.ca1c4766.png",
+    "static/media/web.c9098d93.png": "/React-Portfolio/static/media/web.c9098d93.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2da57e59.js",
+    "static/js/2.ab18e574.chunk.js",
+    "static/js/main.86b523d8.chunk.js"
+  ]
+}
