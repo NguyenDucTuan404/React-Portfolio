@@ -61,7 +61,7 @@ function ContactPage() {
                                 <textarea required name="message" id="textarea" cols="30" rows="10"></textarea>
                             </div>
                             <div className="form-field f-button">
-                                <button className='btn_send' type="submit">Submit Form</button>
+                                <button className='btn_send' type="submit">Send Email</button>
                             </div>
                         </form>
                         <span>{result}</span>
